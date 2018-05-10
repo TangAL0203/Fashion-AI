@@ -1,0 +1,4 @@
+darknet/*.pyc
+FashionAI/*.pyc
+FashionAI/utils/*.pyc
+LIP/*.pyc
